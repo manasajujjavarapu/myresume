@@ -1,0 +1,43 @@
+{
+  "basics":{
+    "name":"manasa",
+    "role":"student",
+    "mobile":"9198989810",
+    "email":"crreddy@gmail.com"
+  },
+  "career":{
+    "objective":"“To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization”."
+  },
+  "education":[
+    {
+      "degree":"B-tech (Computer Science and Engineering)",
+      "college":"Sir CRR Engg College",
+      "data":["2015-2019","87%"]
+    },
+    {
+      "degree":"Board of Intermediate (M.P.C)",
+      "college":"Sri Chaitanya College",
+      "data":["2013-2015","95%"]
+    },
+    {
+      "degree":"S.S.C",
+      "college":"Sri Vignana Vihara School",
+      "data":["2012-2013","8.7"]
+    }
+
+  ],
+  "skills" :[
+    {
+      "name":"Languages",
+      "info" :["c","c++","python","java"]
+    },
+    {
+      "name":"Operating System",
+      "info":["Ubuntu","Windows","Mac","Fedora"]
+    },
+    {
+      "name":"Web Technologies",
+      "info":["HTML","CSS","Javascript","Ajax"]
+    },
+  ]
+}
